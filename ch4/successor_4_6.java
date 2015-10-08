@@ -36,4 +36,7 @@ public class successor_4_6 {
         if(node.left != null) node = node.left; // go to the leftMost
         return node;
     }
+
 }
+
+
